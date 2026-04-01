@@ -10,13 +10,21 @@ Este projeto tem como objetivo prever a inadimplência de clientes com base em d
 O projeto foi desenvolvido seguindo as principais etapas de um pipeline de ciência de dados:
 
 Coleta de Dados: Importação da base de dados
+
 Tratamento de Dados: Limpeza, tratamento de valores nulos e inconsistências
+
 Análise Exploratória (EDA): Identificação de padrões e relações entre variáveis
+
 Feature Engineering: Transformação e preparação das variáveis
+
 Divisão dos Dados: Separação em treino e teste
+
 Balanceamento de Classes: Correção de desbalanceamento dos dados
+
 Modelagem: Aplicação da Regressão Logística
+
 Avaliação: Métricas como matriz de confusão e classification report
+
 Interpretação: Análise dos coeficientes (log-odds)
 
 ⚙️ Tecnologias Utilizadas
