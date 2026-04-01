@@ -20,9 +20,13 @@ Avaliação: Métricas como matriz de confusão e classification report
 Interpretação: Análise dos coeficientes (log-odds)
 
 ⚙️ Tecnologias Utilizadas
+
 Python
+
 Pandas
+
 Matplotlib / Seaborn
+
 Scikit-learn
 
 📈 Resultados
