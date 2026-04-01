@@ -5,6 +5,7 @@
 
 Este projeto tem como objetivo prever a inadimplência de clientes com base em dados históricos de crédito, utilizando técnicas de análise de dados e machine learning. A proposta é apoiar a tomada de decisão na concessão de crédito, reduzindo riscos financeiros.
 
+
 🧠 Metodologia
 
 O projeto foi desenvolvido seguindo as principais etapas de um pipeline de ciência de dados:
@@ -24,6 +25,8 @@ Balanceamento de Classes: Correção de desbalanceamento dos dados
 Modelagem: Aplicação da Regressão Logística
 
 Avaliação: Métricas como matriz de confusão e classification report
+
+
 
 Interpretação: Análise dos coeficientes (log-odds)
 
