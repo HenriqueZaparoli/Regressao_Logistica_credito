@@ -18,12 +18,13 @@ Balanceamento de Classes: Correção de desbalanceamento dos dados
 Modelagem: Aplicação da Regressão Logística
 Avaliação: Métricas como matriz de confusão e classification report
 Interpretação: Análise dos coeficientes (log-odds)
+
 ⚙️ Tecnologias Utilizadas
 Python
 Pandas
-NumPy
 Matplotlib / Seaborn
 Scikit-learn
+
 📈 Resultados
 
 O modelo foi capaz de prever a probabilidade de inadimplência dos clientes, permitindo identificar perfis de maior risco. As métricas de avaliação mostraram que o modelo possui boa capacidade de generalização, sendo útil como ferramenta de apoio à decisão.
